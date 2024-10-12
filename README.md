@@ -1,5 +1,4 @@
 # Night Light
-ME 35 - NightLight Project
 
 This is a night light that was programmed in micropython and used a Raspberry Pi Pico W with a Cytron daughterboard attachment.
 
